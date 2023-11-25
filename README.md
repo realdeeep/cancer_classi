@@ -1,5 +1,5 @@
 # cancer_classi
-Classification of either benign or malignant breast cancer based on the patient data.
+Classification of breast cancer into benign and malignant based on the patient data.
 
 ## What the project is about
 Based on 16 diferent parameters gathered from patients, the case is classified as either benign or malignant so as to consider what kind of treatment does the patient need. Prediction is done based on two methods: neural network and logistic regression.
