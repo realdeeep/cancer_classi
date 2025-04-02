@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the classification of breast cancer into benign and malignant categories based on patient data. Using machine learning techniques, specifically neural networks and logistic regression, the system analyzes 16 distinct parameters to make predictions, aiding in determining appropriate treatment plans for patients.
+This project focuses on the classification of breast cancer into benign and malignant categories based on the patient data. Using machine learning techniques, specifically neural networks and logistic regression, the system analyzes 16 distinct parameters to make predictions, aiding in determining appropriate treatment plans for patients.
 
 ## Objectives
 
